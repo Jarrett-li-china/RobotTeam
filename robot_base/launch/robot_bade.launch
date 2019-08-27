@@ -1,0 +1,6 @@
+<launch>
+	<node pkg="robot_controller" type="robot_controller" name="robot_controller" output="screen">
+	<param name="serialport" type="string" value="/dev/ttyUSB0"/>	
+
+	</node>
+</launch>

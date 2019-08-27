@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="robot_compass" type="robot_compass" name="robot_compass"/>
+</launch>
