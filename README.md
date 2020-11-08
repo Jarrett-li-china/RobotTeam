@@ -19,7 +19,7 @@ $ git clone https://github.com/wjwwood/serial.git
 $ cd serial
 $ mkdir build/
 $ cd build/
-$ make..
+$ cd ..
 $ cmake ../ -DCMAKE_INSTALL_PREFIX=/usr/local
 $ sudo make install
 ```
