@@ -5,7 +5,7 @@
 
 ## 下载代码 Download code
 ```shell
-$ git clone https://github.com/LYJ-forever/RobotTeam.git
+$ git clone hhttps://github.com/Jarrett-li-china/RobotTeam.git
 ```
 
 ## 串口包下载配置 Serial port package download and configuration
